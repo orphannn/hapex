@@ -1,9 +1,8 @@
 # hapex
-> discord >> https://discord.gg/N2T7kxEDNd
 
-> website >> https://www.hoozi.cc
-
-> docs >> https://docs.hoozi.cc
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PnfR95ADW)
+[![Website](https://img.shields.io/badge/Website-0077B6?style=for-the-badge&logo=website&logoColor=white)](https://www.hoozi.cc)
+[![Docs](https://img.shields.io/badge/Docs-222222?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.hoozi.cc)
 
 <img width="4200" height="3200" alt="image" src="https://github.com/user-attachments/assets/890bf702-4ef3-4177-aa5c-e25c1081d134" />
 
