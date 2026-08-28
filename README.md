@@ -1,9 +1,33 @@
-# HOOZi APEX v3
+<div align="center">
+<h1>HOOZi APEX V3</h1>
+<p><strong>ESP &nbsp;|&nbsp; Smart Items &nbsp;|&nbsp; Throw Assist &nbsp;|&nbsp; Lua Scripts</strong></p>
+<p> An all-in-one Apex Legends assistant focused on visual information, configuration flexibility and an extensible Lua scripting system. </p>
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PnfR95ADW)
-[![Website](https://img.shields.io/badge/Website-0077B6?style=for-the-badge&logo=website&logoColor=white)](https://www.hoozi.cc)
-[![Docs](https://img.shields.io/badge/Docs-222222?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.hoozi.cc)
+<p align="center">
+  <a href="https://discord.gg/PnfR95ADW">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://www.hoozi.cc">
+    <img src="https://img.shields.io/badge/www.hoozi.cc-0077B6?style=for-the-badge&logo=internetarchive&logoColor=white" alt="www.hoozi.cc">
+  </a>
+  <a href="https://docs.hoozi.cc">
+    <img src="https://img.shields.io/badge/Docs-222222?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs">
+  </a>
+</p>
 
+## Exclusives
+### Map collision models ("miss-hit")
+Map model collision works like this: when part of a character's bones are blocked, the aimbot automatically searches the remaining body parts — commonly called miss-hit.
+<p align="center">
+  <video controls width="800" height="350">
+    <source src="https://docs.hoozi.cc/products/apex/guide/videos/collision-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+
+## Features
 <img width="4200" height="3200" alt="image" src="https://github.com/user-attachments/assets/890bf702-4ef3-4177-aa5c-e25c1081d134" />
 
 ```
@@ -37,3 +61,16 @@ Configs       — reload · combat · bunnyhop · superglide · mantle boost · 
 Rosters       — add · import/export · cloud settings
 USettings     — menu · draw · theme · display · device (input device rate) · license · notice · dev tools
 ```
+
+## Showcase
+<p align="center">
+  <iframe
+    width="800"
+    height="450"
+    src="https://www.youtube.com/embed/qYd1LjixROA"
+    title="HApex Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</p>
