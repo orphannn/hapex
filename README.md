@@ -1,4 +1,4 @@
-# hapex
+# HOOZi APEX v3
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PnfR95ADW)
 [![Website](https://img.shields.io/badge/Website-0077B6?style=for-the-badge&logo=website&logoColor=white)](https://www.hoozi.cc)
