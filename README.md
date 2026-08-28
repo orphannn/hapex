@@ -57,14 +57,18 @@ Rosters       — add · import/export · cloud settings
 USettings     — menu · draw · theme · display · device (input device rate) · license · notice · dev tools
 ```
 
-## Showcase
 <p align="center">
   <a href="https://www.youtube.com/watch?v=qYd1LjixROA">
     <img
       src="https://img.youtube.com/vi/qYd1LjixROA/maxresdefault.jpg"
       width="800"
-      height="450"
       alt="HApex Demo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=qYd1LjixROA">
+    <img src="https://img.shields.io/badge/▶_Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube">
   </a>
 </p>
 
