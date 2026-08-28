@@ -19,7 +19,8 @@
 ## Exclusives
 ### Map collision models ("miss-hit")
 Map model collision works like this: when part of a character's bones are blocked, the aimbot automatically searches the remaining body parts — commonly called miss-hit.
-<img width="580" alt="collision-models-2" src="https://github.com/user-attachments/assets/55074d40-ef8f-4d3b-8214-18bc91e99b77" />
+
+<center><img width="580" alt="collision-models-2" src="https://github.com/user-attachments/assets/55074d40-ef8f-4d3b-8214-18bc91e99b77" /></center>
 
 ## Features
 <img width="4200" height="3200" alt="image" src="https://github.com/user-attachments/assets/890bf702-4ef3-4177-aa5c-e25c1081d134" />
