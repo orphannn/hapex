@@ -1,4 +1,7 @@
 # hapex
+> discord >> https://discord.gg/N2T7kxEDNd
+> website >> https://www.hoozi.cc
+> docs >> https://docs.hoozi.cc
 
 <img width="4200" height="3200" alt="image" src="https://github.com/user-attachments/assets/890bf702-4ef3-4177-aa5c-e25c1081d134" />
 
