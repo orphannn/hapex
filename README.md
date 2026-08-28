@@ -19,8 +19,8 @@
 ## Exclusives
 ### Map collision models ("miss-hit")
 Map model collision works like this: when part of a character's bones are blocked, the aimbot automatically searches the remaining body parts — commonly called miss-hit.
-<img width="280" alt="collision-models-2" src="https://github.com/user-attachments/assets/55074d40-ef8f-4d3b-8214-18bc91e99b77" />
-<video src="collision-demo.mp4" controls="controls" width="500" height="300"></video>
+
+<img width="380" alt="collision-models-2" src="https://github.com/user-attachments/assets/55074d40-ef8f-4d3b-8214-18bc91e99b77" />
 
 ## Features
 <img width="4200" height="3200" alt="image" src="https://github.com/user-attachments/assets/890bf702-4ef3-4177-aa5c-e25c1081d134" />
@@ -59,13 +59,12 @@ USettings     — menu · draw · theme · display · device (input device rate)
 
 ## Showcase
 <p align="center">
-  <iframe
-    width="800"
-    height="450"
-    src="https://www.youtube.com/embed/qYd1LjixROA"
-    title="HApex Demo"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
+  <a href="https://www.youtube.com/watch?v=qYd1LjixROA">
+    <img
+      src="https://img.youtube.com/vi/qYd1LjixROA/maxresdefault.jpg"
+      width="800"
+      height="450"
+      alt="HApex Demo">
+  </a>
 </p>
+
